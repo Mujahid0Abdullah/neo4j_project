@@ -1,0 +1,233 @@
+[
+    {
+        "kId": 27001,
+        "Gazve Adı": "Waddan (al-Abwa’)",
+        "Tarih": "August 623",
+        "Amaç": "Yol keşfi ve ittifaklar",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Al-Abwa’",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27002,
+        "Gazve Adı": "Buwat",
+        "Tarih": "September 623",
+        "Amaç": "Kervan baskını",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Buwat",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27003,
+        "Gazve Adı": "Safwan",
+        "Tarih": "September 623",
+        "Amaç": "Düşman takibi",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Safwan",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27004,
+        "Gazve Adı": "Zul Al-Ushairah",
+        "Tarih": "December 623",
+        "Amaç": "Kervan baskını",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Zul Al-Ushairah",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27005,
+        "Gazve Adı": "Nakhla Raid",
+        "Tarih": "January 624",
+        "Amaç": "Kervan baskını",
+        "Sonuç": "Başarılı",
+        "Yer": "Nakhla",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Kureyş"
+    },
+    {
+        "kId": 27006,
+        "Gazve Adı": "Badr",
+        "Tarih": "13 March 624",
+        "Amaç": "Kervan baskını / Savaş",
+        "Sonuç": "Büyük zafer",
+        "Yer": "Badr",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Kureyş"
+    },
+    {
+        "kId": 27007,
+        "Gazve Adı": "Banu Qaynuqa",
+        "Tarih": "April 624",
+        "Amaç": "İttifak ihlali",
+        "Sonuç": "Sürgün",
+        "Yer": "Medine",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Banu Qaynuqa"
+    },
+    {
+        "kId": 27008,
+        "Gazve Adı": "Sawiq",
+        "Tarih": "May/June 624",
+        "Amaç": "Düşman takibi",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "-",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27009,
+        "Gazve Adı": "Uhud",
+        "Tarih": "23 March 625",
+        "Amaç": "Savunma",
+        "Sonuç": "Kayıp",
+        "Yer": "Uhud",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Kureyş"
+    },
+    {
+        "kId": 27010,
+        "Gazve Adı": "Hamra al-Asad",
+        "Tarih": "March 625",
+        "Amaç": "Düşman takibi",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Hamra al-Asad",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27011,
+        "Gazve Adı": "Banu Nadir",
+        "Tarih": "August 625",
+        "Amaç": "İttifak ihlali",
+        "Sonuç": "Sürgün",
+        "Yer": "Medine",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Banu Nadir"
+    },
+    {
+        "kId": 27012,
+        "Gazve Adı": "Badr al-Maw’id",
+        "Tarih": "April 626",
+        "Amaç": "Düşman takibi",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Badr",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27013,
+        "Gazve Adı": "Dhat al-Riqa",
+        "Tarih": "June 626",
+        "Amaç": "Düşman takibi",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Dhat al-Riqa",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27014,
+        "Gazve Adı": "Dumat al-Jandal",
+        "Tarih": "August/September 626",
+        "Amaç": "Siyasi kontrol",
+        "Sonuç": "Başarılı",
+        "Yer": "Dumat al-Jandal",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27015,
+        "Gazve Adı": "Trench",
+        "Tarih": "April 627",
+        "Amaç": "Savunma",
+        "Sonuç": "Başarılı",
+        "Yer": "Medine",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Müttefik kuvvetler"
+    },
+    {
+        "kId": 27016,
+        "Gazve Adı": "Banu Qurayza",
+        "Tarih": "May 627",
+        "Amaç": "İttifak ihlali",
+        "Sonuç": "Kuşatma ve sürgün",
+        "Yer": "Medine",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Banu Qurayza"
+    },
+    {
+        "kId": 27017,
+        "Gazve Adı": "Banu Lahyan",
+        "Tarih": "July 627",
+        "Amaç": "İntikam",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "-",
+        "Savunanlar": "Müslümanlar",
+        "Saldıranlar": "Banu Lahyan"
+    },
+    {
+        "kId": 27018,
+        "Gazve Adı": "Dhu Qarad",
+        "Tarih": "August 627",
+        "Amaç": "Düşman takibi",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Dhu Qarad",
+        "Savunanlar": "-",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27019,
+        "Gazve Adı": "Mu’tah",
+        "Tarih": "September 629",
+        "Amaç": "Bizans’a karşı",
+        "Sonuç": "Kayıp",
+        "Yer": "Mu’tah",
+        "Savunanlar": "Bizans ve müttefikleri",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27020,
+        "Gazve Adı": "Conquest of Mecca",
+        "Tarih": "January 630",
+        "Amaç": "Mekke’nin fethi",
+        "Sonuç": "Başarılı",
+        "Yer": "Mekke",
+        "Savunanlar": "Kureyş",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27021,
+        "Gazve Adı": "Hunayn",
+        "Tarih": "June 630",
+        "Amaç": "Kabilelere karşı",
+        "Sonuç": "Başarılı",
+        "Yer": "Hunayn",
+        "Savunanlar": "Ta’if ve Hawazin kabileleri",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27022,
+        "Gazve Adı": "Ta’if Siege",
+        "Tarih": "June 630",
+        "Amaç": "Ta’if’in kuşatılması",
+        "Sonuç": "Kuşatma başarısız",
+        "Yer": "Ta’if",
+        "Savunanlar": "Ta’if kabileleri",
+        "Saldıranlar": "Müslümanlar"
+    },
+    {
+        "kId": 27023,
+        "Gazve Adı": "Tabuk",
+        "Tarih": "October 630",
+        "Amaç": "Bizans’a karşı",
+        "Sonuç": "Savaş olmadı",
+        "Yer": "Tabuk",
+        "Savunanlar": "Bizans ve müttefikleri",
+        "Saldıranlar": "Müslümanlar"
+    }
+]
+
