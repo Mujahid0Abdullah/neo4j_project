@@ -1,0 +1,113 @@
+[
+    {
+      "Konum": "Enlem: 32.4279° North Boylam: 53.6880° East",
+      "adi": "İran",
+      "bID": 934009
+    },
+    {
+      "Konum": "Enlem: 15.3694° North Boylam: 44.1910° East",
+      "adi": "Yemen",
+      "bID": 934008
+    },
+    {
+      "Konum": "Enlem: 21.2703° North Boylam: 40.4159° East",
+      "adi": "Taif",
+      "bID": 934007
+    },
+    {
+      "Konum": "Enlem: 23.8859° North Boylam: 45.0792° East",
+      "adi": "Suudi Arabistan",
+      "bID": 934006
+    },
+    {
+      "Konum": "Enlem: 24.7433° North Boylam: 46.6694° East",
+      "adi": "Rabiğ",
+      "bID": 934005
+    },
+    {
+      "Konum": "Enlem: 25.3792° North Boylam: 49.5919° East",
+      "adi": "Necid",
+      "bID": 934004
+    },
+    {
+      "Konum": "Enlem: 21.3891° North Boylam: 39.8579° East",
+      "adi": "Mekke",
+      "bID": 934003
+    },
+    {
+      "Konum": "Enlem: 24.4709° North Boylam: 39.6122° East",
+      "adi": "Medine",
+      "bID": 934002
+    },
+    {
+      "Konum": "Enlem: 24.4709° North Boylam: 39.6122° East",
+      "adi": "Irak",
+      "bID": 934001
+    },
+    {
+        "Konum": "Enlem: 9.1450° North Boylam: 40.4897° East",
+        "adi": "Habeşistan",
+        "bID": 934010
+      },
+
+      {
+        "Konum": "Enlem: 24.3060° North Boylam: 39.6172° East",
+        "adi": "Bedir",
+        "bID": 934013
+      },
+      {
+        "Konum": "Enlem: 14.6610° North Boylam: 45.0890° East",
+        "adi": "Yemâme",
+        "bID": 934014
+      },
+      {
+        "Konum": "Enlem: 37.0662° North Boylam: 37.3833° East",
+        "adi": "Gaziantep",
+        "bID": 934015
+      },
+      {
+        "Konum": "Enlem: 26.8206° North Boylam: 30.8025° East",
+        "adi": "Mısır",
+        "bID": 934016
+      },
+      {
+        "Konum": "Enlem: 41.0082° North Boylam: 28.9784° East",
+        "adi": "İstanbul",
+        "bID": 934017
+      },
+      {
+        "Konum": "Enlem: 35.1264° North Boylam: 33.4299° East",
+        "adi": "Kıbrıs",
+        "bID": 934018
+      },
+      {
+        "Konum": "Enlem: 37.7648° North Boylam: 38.2765° East",
+        "adi": "Adıyaman",
+        "bID": 934019
+      },
+      {
+        "Konum": "Enlem: 40.0691° North Boylam: 45.0382° East",
+        "adi": "Ermenistan",
+        "bID": 934020
+      },
+      {
+        "Konum": "Enlem: 40.1431° North Boylam: 47.5769° East",
+        "adi": "Azerbaycan",
+        "bID": 934021
+      },
+      {
+        "Konum": "Enlem: 31.9466° North Boylam: 35.2731° East",
+        "adi": "Filistin",
+        "bID": 934022
+      },
+      {
+        "Konum": "Enlem: 34.8021° North Boylam: 38.9968° East",
+        "adi": "Suriye",
+        "bID": 934011
+      },
+      {
+        "Konum": "Enlem: 30.5852° North Boylam: 36.2384° East",
+        "adi": "Ürdün",
+        "bID": 934012
+      }
+  ]
