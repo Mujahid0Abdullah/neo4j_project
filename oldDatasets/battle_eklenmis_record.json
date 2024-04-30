@@ -1,0 +1,63 @@
+[{"bID":27001,"adi":"WADDAN (AL-ABWA\u2019)",
+"Tarih":"August 623 (1 AH)","Ama\u00e7":"Yol ke\u015ffi ve ittifaklar",
+"Sonu\u00e7":"Sava\u015f olmad\u0131","Yer":"Al-Abwa\u2019","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+,{"bID":27002,"adi":"BUWAT","Tarih":"September 623 (1 AH)","Ama\u00e7":"Kervan bask\u0131n\u0131","Sonu\u00e7":"Sava\u015f olmad\u0131",
+"Yer":"Buwat","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+,{"bID":27003,"adi":"SAFWAN","Tarih":"September 623 (1 AH)",
+"Ama\u00e7":"D\u00fc\u015fman takibi","Sonu\u00e7":"Sava\u015f olmad\u0131",
+"Yer":"Safwan","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"},
+{"bID":27004,"adi":"ZUL AL-USHAIRAH","Tarih":"December 623 (1 AH)","Ama\u00e7":"Kervan bask\u0131n\u0131",
+"Sonu\u00e7":"Sava\u015f olmad\u0131","Yer":"Zul Al-Ushairah","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+,{"bID":27005,"adi":"NAKHLA RAID","Tarih":"January 624 (2 AH)","Ama\u00e7":"Kervan bask\u0131n\u0131","Sonu\u00e7":"Ba\u015far\u0131l\u0131",
+"Yer":"Nakhla","Savunanlar":"M\u00fcsl\u00fcmanlar","Sald\u0131ranlar":"Kurey\u015f"},{"bID":27006,"adi":"BADR","Tarih":"13 March 624 (2 AH)",
+"Ama\u00e7":"Kervan bask\u0131n\u0131 \/ Sava\u015f","Sonu\u00e7":"B\u00fcy\u00fck zafer","Yer":"Badr","Savunanlar":"M\u00fcsl\u00fcmanlar"
+,"Sald\u0131ranlar":"Kurey\u015f"},{"bID":27007,"adi":"BANU QAYNUQA","Tarih":"April 624 (2 AH)","Ama\u00e7":"\u0130ttifak ihlali",
+"Sonu\u00e7":"S\u00fcrg\u00fcn","Yer":"Medine","Savunanlar":"M\u00fcsl\u00fcmanlar","Sald\u0131ranlar":"Banu Qaynuqa"},
+{"bID":27008,"adi":"SAWIQ","Tarih":"May\/June 624 (2 AH)",
+"Ama\u00e7":"D\u00fc\u015fman takibi","Sonu\u00e7":"Sava\u015f olmad\u0131",
+"Yer":"-","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"},
+{"bID":27009,"adi":"UHUD","Tarih":"23 March 625 (3 AH)","Ama\u00e7":"Savunma","Sonu\u00e7":"Kay\u0131p","Yer":"Uhud",
+"Savunanlar":"M\u00fcsl\u00fcmanlar","Sald\u0131ranlar":"Kurey\u015f"}
+
+,{"bID":27010,"adi":"HAMRA AL-ASAD",
+"Tarih":"March 625 (3 AH)","Ama\u00e7":"D\u00fc\u015fman takibi","Sonu\u00e7":"Sava\u015f olmad\u0131",
+"Yer":"Hamra al-Asad","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+
+,{"bID":27011,
+"adi":"BANU NADIR","Tarih":"August 625 (3 AH)","Ama\u00e7":"\u0130ttifak ihlali","Sonu\u00e7":"S\u00fcrg\u00fcn","Yer":"Medine",
+"Savunanlar":"M\u00fcsl\u00fcmanlar","Sald\u0131ranlar":"Banu Nadir"},{"bID":27012,"adi":"BADR AL-MAW\u2019ID","Tarih":"April 626 (4 AH)",
+"Ama\u00e7":"D\u00fc\u015fman takibi","Sonu\u00e7":"Sava\u015f olmad\u0131","Yer":"Badr","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+
+,{"bID":27013,"adi":"DHAT AL-RIQA","Tarih":"June 626 (4 AH)","Ama\u00e7":"D\u00fc\u015fman takibi","Sonu\u00e7":"Sava\u015f olmad\u0131",
+"Yer":"Dhat al-Riqa","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+
+,{"bID":27014,"adi":"DUMAT AL-JANDAL","Tarih":"August\/September 626 (4 AH)","Ama\u00e7":"Siyasi kontrol",
+"Sonu\u00e7":"Ba\u015far\u0131l\u0131","Yer":"Dumat al-Jandal","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+
+,{"bID":27015,"adi":"TRENCH","Tarih":"April 627 (5 AH)","Ama\u00e7":"Savunma","Sonu\u00e7":"Ba\u015far\u0131l\u0131",
+"Yer":"Medine","Savunanlar":"M\u00fcsl\u00fcmanlar","Sald\u0131ranlar":"M\u00fcttefik kuvvetler"},
+
+{"bID":27016,
+"adi":"BANU QURAYZA","Tarih":"May 627 (5 AH)","Ama\u00e7":"\u0130ttifak ihlali","Sonu\u00e7":"Ku\u015fatma ve s\u00fcrg\u00fcn",
+"Yer":"Medine","Savunanlar":"M\u00fcsl\u00fcmanlar","Sald\u0131ranlar":"Banu Qurayza"}
+
+,{"bID":27017,"adi":"BANU LAHYAN","Tarih":"July 627 (5 AH)","Ama\u00e7":"\u0130ntikam",
+"Sonu\u00e7":"Sava\u015f olmad\u0131","Yer":"-","Savunanlar":"M\u00fcsl\u00fcmanlar","Sald\u0131ranlar":"Banu Lahyan"}
+
+,{"bID":27018,"adi":"DHU QARAD","Tarih":"August 627 (5 AH)","Ama\u00e7":"D\u00fc\u015fman takibi",
+"Sonu\u00e7":"Sava\u015f olmad\u0131","Yer":"Dhu Qarad","Savunanlar":"-","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+
+,{"bID":27019,"adi":"MU\u2019TAH","Tarih":"September 629 (7 AH)","Ama\u00e7":"Bizans\u2019a kar\u015f\u0131",
+"Sonu\u00e7":"Kay\u0131p","Yer":"Mu\u2019tah","Savunanlar":"Bizans ve m\u00fcttefikleri","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"},
+
+{"bID":27020,"adi":"CONQUEST OF MECCA","Tarih":"January 630 (7 AH)","Ama\u00e7":"Mekke\u2019nin fethi",
+"Sonu\u00e7":"Ba\u015far\u0131l\u0131","Yer":"Mekke","Savunanlar":"Kurey\u015f","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"},
+
+{"bID":27021,"adi":"HUNAYN","Tarih":"June 630 (8 AH)","Ama\u00e7":"Kabilelere kar\u015f\u0131","Sonu\u00e7":"Ba\u015far\u0131l\u0131",
+"Yer":"Hunayn","Savunanlar":"Ta\u2019if ve Hawazin kabileleri","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+
+,{"bID":27022,"adi":"TA\u2019IF SIEGE","Tarih":"June 630 (8 AH)","Ama\u00e7":"Ta\u2019if\u2019in ku\u015fat\u0131lmas\u0131",
+"Sonu\u00e7":"Ku\u015fatma ba\u015far\u0131s\u0131z","Yer":"Ta\u2019if","Savunanlar":"Ta\u2019if kabileleri","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}
+
+,{"bID":27023,"adi":"TABUK","Tarih":"October 630 (8 AH)",
+"Ama\u00e7":"Bizans\u2019a kar\u015f\u0131","Sonu\u00e7":"Sava\u015f olmad\u0131","Yer":"Tabuk","Savunanlar":"Bizans ve m\u00fcttefikleri","Sald\u0131ranlar":"M\u00fcsl\u00fcmanlar"}]
