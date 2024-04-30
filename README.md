@@ -1,1 +1,1 @@
-<h1 >GrrphXR ile Sahabeler Biyografisi</h1>
+<h1 >GraphXR ile Sahabeler Biyografisi</h1>
