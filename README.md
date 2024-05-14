@@ -1,5 +1,5 @@
 <h1 >Biography of the first years of Islamic history with GraphXR</h1>
-https://graphxrnext.kineviz.com/p/662fc8529e09ba55c684fa47/sahabeler/663398281ca7c0de34402bff/https:/graphxrnext.kineviz.com/share/662fc8529e09ba55c684fa47/sahabeler/663397751ca7c0de34402ada/undefined
+https://graphxrnext.kineviz.com/share/662fc8529e09ba55c684fa47/sahabeler/66432af19054947b01c8f17d/5jjj
 <hr>
 A project will be carried out to understand and visualize the relationships between events and the roles of the SAHABI (Companions of the Prophet) in order to graphically illustrate the history of the birth of Islam.
 
