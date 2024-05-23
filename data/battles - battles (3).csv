@@ -1,0 +1,44 @@
+,bID,adi,Tarih,Amaç,Sonuç,Yer,Savunanlar,Saldıranlar,Miladi tarihi,Hicri tarihi,lat,long
+0,27001,Ebva,August 623 (1 AH),Yol keşfi ve ittifaklar,Savaş olmadı,Ebva,Müşrikler,Müslümanlar,01/08/0623,1,23.052316,39.083615
+1,27002,BUWAT,September 623 (1 AH),Kervan baskını,Savaş olmadı,Buwat,Müşrikler,Müslümanlar,01/09/0623,1,24.736724,39.232911
+2,27003,SAFWAN,September 623 (1 AH),Düşman takibi,Savaş olmadı,Safwan,Müşrikler,Müslümanlar,01/09/0623,1,23.772579,38.830854
+3,27004,Aşire,December 623 (1 AH),Kervan baskını,Savaş olmadı,Zul Al-Ushairah,Müşrikler,Müslümanlar,01/12/0623,1,24.011980,39.664095
+4,27005,NAHLE SERİYYESİ,January 624 (2 AH),Kervan baskını,zafer,NAHLE,Müslümanlar,Müşrikler,01/01/0624,2,22.43487,39.6200886
+5,27006,Bedir,13 March 624 (2 AH),Kervan baskını / Savaş,zafer,Bedir,Müslümanlar,Müşrikler,13/03/0624,2,24.3060,39.6172
+6,27007,Beni Kaynuka,April 624 (2 AH),İttifak ihlali,Surgun,Medine,Müslümanlar,Yahudileri,01/04/0624,2,24.358081,39.656614
+7,27008,SAWIQ,May/June 624 (2 AH),Düşman takibi,Savaş olmadı,Medine,Müşrikler,Müslümanlar,01/06/0624,2,24.482610,39.858708
+8,27009,Uhud,23 March 625 (3 AH),Savunma,Kayıp,Uhud,Müslümanlar,Müşrikler,23/03/0625,3,24.542578430,39.639518
+9,27010,Hamrâülesed,March 625 (3 AH),Düşman takibi,Savaş olmadı,Hamrâülesed,Müslümanlar,Müşrikler,24/03/0625,3,24.342205,39.51792
+10,27011,Benî Nadr,August 625 (3 AH),İttifak ihlali,Surgun,Medine,Müslümanlar,Banu Nadir,01/03/0626,4,24.43669,39.626637
+11,27012,Bedrü'l Mev'id,April 626 (4 AH),Düşman takibi,Savaş olmadı,Bedir,Müslümanlar,Müşrikler,01/04/0626,4,23.79756,38.875454
+12,27013,Zatürrika,June 626 (4 AH),Düşman takibi,Savaş olmadı,Zatürrika,-,Müslümanlar,01/06/0626,4,24.321982,40.876336
+13,27014,Devmetü’l-Cendel,August/September 626 (4 AH),Siyasi kontrol,zafer,Devmetü’l-Cendel,-,Müslümanlar,01/09/0626,4,29.726529,39.937517
+14,27015,Hendek,April 627 (5 AH),Savunma,zafer,Medine,Müslümanlar,Müşrikler,01/04/0627,5,24.358081,39.656614
+15,27016,Benî Kurayza,May 627 (5 AH),İttifak ihlali,Surgun,Medine,Müslümanlar,Yahudileri,01/05/0627,5,24.358081,39.656614
+16,27017,BANU LAHYAN,July 627 (5 AH),İntikam,Savaş olmadı,-,Müslümanlar,Banu Lahyan,01/07/0627,5,22.02285,39.4205621
+17,27018,DHU QARAD,August 627 (5 AH),Düşman takibi,Savaş olmadı,Dhu Qarad,-,Müslümanlar,01/08/0627,5,24.854329,40.029350
+18,27019,Hayber,March/April 628 (7 AH),savaş,zafer,Hayber,Yahudileri,Müslümanlar,01/04/0628,7,25.670843,39.297237
+19,27020,Mûte,September 629 (7 AH),Bizans’a karşı,Kayıp,Mûte,Bizans,Müslümanlar,01/09/0629,7,31.0764858,35.7213048
+20,27021,Mekke Fethi,January 630 (7 AH),Mekke’nin fethi,zafer,Mekke,Müşrikler,Müslümanlar,01/01/0630,7,21.464945,39.8317790
+21,27022,Huneyn,June 630 (8 AH),Kabilelere karşı,zafer,Hunayn,Taif ve Hawazin kabileleri,Müslümanlar,01/06/0630,8,21.321958,40.391095
+22,27023,Taif,June 630 (8 AH),Taif in kuşatılması,Surgun,Taif,Taif kabileleri,Müslümanlar,01/06/0630,8,21.2474512,40.437073
+23,27024,Tebük,October 630 (8 AH),Bizans’a karşı,Savaş olmadı,Tebük,Bizans,Müslümanlar,01/10/0630,8,28.3737416,36.600058
+24,27025,cemel,8 /12/ 656,fitne,Kayıp,Basra,Müslümanlar,Müslümanlar,8/12/0656,35,30.521674,47.745131
+25,27026,siffin,28 Zilkade 36,fitne,Kayıp,Rakka,Müslümanlar,Müslümanlar,28/07/0657,36,35.886836,38.949333
+26,27027,istanbul seferleri,669/49 H,İstanbul'un fethi,Kayıp,İstanbul,Bizans,Müslümanlar,01/01/0669,49,40.876600,29.608341
+27,27028,şam fethi,19 Eylül 634,Şam'ın fethi,zafer,suriye,Bizans,Müslümanlar,19/9/0634,13,33.518494,36.693259
+28,27029,yermuk,August  636,İrak’ı fethetmek,zafer,suriye,Bizans,Müslümanlar,20/08/0636,15,32.814110,35.954820
+29,27030,misir fethi,1/1/0641,misir fethi,zafer,mısır,Bizans,Müslümanlar,1/1/0641,20,31.193386,30.106649
+30,27031,kudüs,01/04/0637,Şam'ın fethi,Surgun,filistin,Bizans,Müslümanlar,01/04/0637,16,31.762954, 35.222863
+31,27032,nihavend,01/01/0642,İran’ı fethetmek,zafer,,Sasani,Müslümanlar,01/01/0642,21,34.3482,47.13931
+32,27033,İfrikkıyye,1/1/0647,İfrîkıye'nin fethi,zafer,Sübeytıla,Gregorios'un ordusu,Müslümanlar,1/1/0647,27,12.607382,33.954688
+33,27034,Taberistan,1/1/0650,İran’ı fethetmek,Kayıp,iran,Sasani,Müslümanlar,1/1/0650,30,36.286738,52.250353
+34,27035,Cürcan,1/1/0650,İran’ı fethetmek,zafer,iran,Sasani,Müslümanlar,1/1/0650,30,36.286738,52.250353
+35,27036,Kâdisiye,19/11/0636,Irak'ını içeren toprakların Raşidun Halifeliği'ne dahil edilmesine yol açtı,zafer,ırak kufe,Sasani,Müslümanlar,19/11/0636,15,31.965547,44.350056
+36,27037,Azerbaycan,19/11/0643,İran’ı fethetmek,zafer,Azerbaycan,Sasani,Müslümanlar,19/11/0643,22,39.576389,48.067780
+37,27038,iran,01/04/0644,İran’ı fethetmek,zafer,iran,Sasani,Müslümanlar,01/04/0644,23,33.002444,48.474588
+38,27040,yemame,10 Muharrem 11,"İslam peygamberi Muhammed’in ölümünden sonra birçok Arap kabilesi Medine Devleti’ne isyan etti. Halife Ebû Bekir, isyancılarla başa çıkmak için 11 kolordu örgütledi. İkrime, Yemame’de Müseylime’nin güçlerini karşılamak ancak onunla savaşa karışmamak amacıyla görevlendirildi. Halid ibn el-Velid, diğer küçük mürtedlerle uğraştıktan sonra Müseylime’ye karşı çıkan güçlerin komutanlığına seçildi. Yemame, Kuzey-Orta Arabistan’daki isyancılarla mücadele etmek için Halid’in üssü olarak kullanıldı.",zafer,Yemame,Müseylime,Müslümanlar,1/12/0632,11,14.6610,45.0890
+39,27041,Ammûriye,01/01/0669,İstanbul’un fethi için gelen Müslüman orduları tarafından stratejik bir nokta olarak kuşatılmıştır,zafer,Ammûriye,Bizans,Müslümanlar,01/01/0669,49,38.3676,34.0254
+40,27042,Ecnâdeyn,30 Temmuz 634,Suriye ve Filistin’i fethetmek,zafer,Ecnâdeyn,Bizans,Müslümanlar,01/01/0634,13,31.7833,35.23333
+41,27043,Horasan Fethi,01/01/0644,Horasan’ı fethetmek,zafer,Horasan,Sasani,Müslümanlar,01/01/0644,23,36.5449,61.15774
+42,27044,Nehrevan,01/01/0658,Hâricîlerle mücadele etmek,zafer,Nehrevan,Hâricîler,Müslümanlar,01/01/0658,37,33.3152,44.36675
